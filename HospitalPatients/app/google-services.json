@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956913033824",
+    "project_id": "hospital-patients-5cfab",
+    "storage_bucket": "hospital-patients-5cfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956913033824:android:7a5e9cb64b17eba7059905",
+        "android_client_info": {
+          "package_name": "com.mycompany.hospitalpatients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956913033824-215902cqmg9ggg5f25088i6ck1238gbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hospitalpatients",
+            "certificate_hash": "e06c3f8fab94eca3eb4040c537c5a6b39fd73f93"
+          }
+        },
+        {
+          "client_id": "956913033824-e81qs1bf6ffjpfn705hvnudt1ufi406g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyhTpzns7tZfbsi1mU3w6GvCXLyZbbLBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956913033824-e81qs1bf6ffjpfn705hvnudt1ufi406g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
